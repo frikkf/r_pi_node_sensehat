@@ -1,0 +1,23 @@
+{
+  "name": "r_pi_node_sensehat",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/frikkf/r_pi_node_sensehat.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/frikkf/r_pi_node_sensehat/issues"
+  },
+  "homepage": "https://github.com/frikkf/r_pi_node_sensehat#readme",
+  "dependencies": {
+    "nodeimu": "^2.1.9"
+  }
+}
